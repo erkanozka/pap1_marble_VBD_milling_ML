@@ -1,0 +1,4 @@
+Model,Best_Val_R2,colsample_bytree,learning_rate,max_depth,n_estimators,reg_alpha,reg_lambda,subsample,min_samples_leaf,min_samples_split
+LightGBM,0.953,0.7908,0.0839,7.5338,362.9694,1.7745,3.3089,0.6834,,
+RF,0.9523,,,20.0,191.5602,,,,2.0,7.4275
+XGBoost,0.9549,0.6333,0.0992,6.7344,307.5082,2.1842,0.3852,0.8773,,

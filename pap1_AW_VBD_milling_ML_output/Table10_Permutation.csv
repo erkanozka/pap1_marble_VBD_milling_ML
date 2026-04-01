@@ -1,0 +1,3 @@
+Target,Real_R2,Null_Mean,Null_Std,Null_95th,p_value,Significant
+Ra,0.9701,-0.0015,0.0056,0.0078,<0.001,True
+Lp,0.9691,-0.0009,0.0115,0.0161,<0.001,True

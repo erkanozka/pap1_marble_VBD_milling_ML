@@ -1,0 +1,13 @@
+Target,Base Model,W,p-value,Significant (p<0.05)
+Ra,RF,64137.0,9.48e-01,✗
+Ra,XGBoost,60356.0,9.97e-01,✗
+Ra,LightGBM,59487.0,9.98e-01,✗
+Ra,GBR,50300.0,1.00e+00,✗
+Ra,SVR,82591.0,1.37e-04,✓
+Ra,KNN,72117.0,2.57e-01,✗
+Lp,RF,55750.5,1.00e+00,✗
+Lp,XGBoost,58870.5,9.99e-01,✗
+Lp,LightGBM,58385.5,9.99e-01,✗
+Lp,GBR,58825.0,9.99e-01,✗
+Lp,SVR,57557.0,1.00e+00,✗
+Lp,KNN,61732.5,9.90e-01,✗

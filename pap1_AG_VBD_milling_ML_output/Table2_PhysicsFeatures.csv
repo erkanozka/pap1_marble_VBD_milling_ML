@@ -1,0 +1,8 @@
+Feature,Symbol,Formula,Unit,Reference
+Fe1,λ_F,Fr/Ft,—,"Merchant (1945) J. Applied Physics, 16(5), p.272"
+Fe2,E_rev,P/(n/60),J/rev,"Ersoy & Atici (2004) Diamond Relat. Mater., 13(1), p.22"
+Fe3,λ_xy,Fx/Fy,—,"Shaw (2005) Metal Cutting Principles, p.42"
+Fe4,F̂_t,Ft/Fz,—,"Budak (2006) Int. J. Mach. Tools Manuf., 46(12-13), p.1479"
+Fe5,Q′,P/f,W·min/mm,"Malkin & Guo (2008) Grinding Technology, p.118"
+Fe6,FI,√(Fr²+Ft²),N,"Altintas (2012) Manufacturing Automation, p.6,17"
+Fe7,Fsc,Fz/f,N·min/mm,"Altintas (2012) Manufacturing Automation, p.18"

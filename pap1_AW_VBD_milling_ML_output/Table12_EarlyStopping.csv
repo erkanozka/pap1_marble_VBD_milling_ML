@@ -1,0 +1,4 @@
+Target,Model,Best_Iter,Train_RMSE,Val_RMSE,Gap (Val-Train),Final_R2
+Ra,XGBoost,132,0.2197,0.1766,-0.0431,0.9676
+Ra,LightGBM,157,0.2185,0.1799,-0.0386,0.9649
+Lp,LightGBM,129,0.5704,0.432,-0.1384,0.9745

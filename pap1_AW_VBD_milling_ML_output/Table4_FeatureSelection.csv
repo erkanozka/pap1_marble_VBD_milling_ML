@@ -1,0 +1,9 @@
+Target,Feature,Label,Group,Boruta,SHAP
+Ra,P,Fo6 (P),Fo,✓,✓
+Ra,SE,Fo7 (SE),Fo,✓,✓
+Ra,Ft,Fo9 (Ft),Fo,✓,✓
+Ra,Fe2_Erev,Fe2 (E_rev),Fe,✓,✓
+Ra,Fe5_Qp,Fe5 (Q′),Fe,✓,✓
+Lp,n,Fo1 (n),Fo,✓,✓
+Lp,f,Fo2 (f),Fo,✓,✓
+Lp,P,Fo6 (P),Fo,✓,✓

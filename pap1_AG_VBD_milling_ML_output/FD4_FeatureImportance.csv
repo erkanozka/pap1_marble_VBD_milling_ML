@@ -1,0 +1,11 @@
+Target,Feature,Label,Importance
+Ra,f,Fo2 (f),0.1587
+Ra,P,Fo6 (P),0.1283
+Ra,Ft,Fo9 (Ft),0.2148
+Ra,Fe2_Erev,Fe2 (E_rev),0.1156
+Ra,Fe5_Qp,Fe5 (Q′),0.3825
+Lp,n,Fo1 (n),0.0324
+Lp,P,Fo6 (P),0.5475
+Lp,SE,Fo7 (SE),0.1804
+Lp,Fe2_Erev,Fe2 (E_rev),0.0519
+Lp,Fe5_Qp,Fe5 (Q′),0.1878
